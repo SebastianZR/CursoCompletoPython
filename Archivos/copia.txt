@@ -1,0 +1,4 @@
+Agregamos informacion al archivo 
+Adios popo
+Ultima linea
+Adios de nuevo
